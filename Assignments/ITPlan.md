@@ -13,7 +13,9 @@ For this exercise, choose a type of business for whom you will be the IT manager
 - private school
 - museum
 - cyber cafe (coffee shop + internet access point)
-
+- national archive building
+- operational warehouse
+- 
 ## The Content
 
 When constructing a plan, we aren't going to be super official about format (yet).  But in general, you should be considering things like:
@@ -23,5 +25,8 @@ When constructing a plan, we aren't going to be super official about format (yet
 - Infrastructure (power & networking)
 - Types of systems (and purposes)
 - Software / service needs
+- Type of network LAN or WAN
+- Type of external and internal security measures (Castle Doctrine)
+- Types of permissions authorized to said personnel
 
 Your plan should use good markdown formatting to make it presentable.
